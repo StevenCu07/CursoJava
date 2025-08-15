@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codigo/Seccion-1/Presentate/Presentate.iml" filepath="$PROJECT_DIR$/Codigo/Seccion-1/Presentate/Presentate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursos/Recursos.iml" filepath="$PROJECT_DIR$/Recursos/Recursos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codigo/Seccion-2/Seccion-2.iml" filepath="$PROJECT_DIR$/Codigo/Seccion-2/Seccion-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codigo/Seccion-3/Seccion-3.iml" filepath="$PROJECT_DIR$/Codigo/Seccion-3/Seccion-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codigo/Seccion-4/Seccion-4.iml" filepath="$PROJECT_DIR$/Codigo/Seccion-4/Seccion-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion-5/Seccion-5.iml" filepath="$PROJECT_DIR$/Seccion-5/Seccion-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion-6/Seccion-6.iml" filepath="$PROJECT_DIR$/Seccion-6/Seccion-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codigo/Seccion-1/introduccion/introduccion.iml" filepath="$PROJECT_DIR$/Codigo/Seccion-1/introduccion/introduccion.iml" />
+    </modules>
+  </component>
+</project>
