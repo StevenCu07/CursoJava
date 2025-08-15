@@ -2,8 +2,6 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="holi" target="17" />
-      <module name="Seccion-7" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
